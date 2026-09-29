@@ -1,0 +1,8 @@
+{
+  "name": "Priya General Store AI",
+  "description": "Browser-based retail assistant with sales analytics, inventory velocity, restocking planning, and Gemini AI assistant.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
